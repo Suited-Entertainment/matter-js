@@ -83,6 +83,12 @@ var Axes = require('../geometry/Axes');
                     yScale: 1,
                     xOffset: 0,
                     yOffset: 0
+                },
+                text: {
+                    content: "",
+                    size: 12,
+                    family: "Arial",
+                    color: "#fff",
                 }
             },
             events: null,
